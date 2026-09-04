@@ -1,4 +1,3 @@
-# obesity-eda-and-modeling
 # Obesity Level Analysis & Prediction
 
 A full-cycle data analytics project that cleans, explores, visualizes, and models a lifestyle/demographic dataset to classify individuals into **7 obesity levels** — from *Insufficient Weight* to *Obesity Type III*. The project combines Python (EDA + Machine Learning), an interactive **Power BI dashboard**, and an AI-generated business insights report.
